@@ -9,4 +9,4 @@ HTML | CSS | JavaScript | ReactJS | Node.js | MongoDB | MySQL | PHP | Java | Pyt
 
 ## 🔗 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandanita-upadhyay-216ba6301)
-[Instagram](https://www.instagram.com/nanzzzita_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white)](https://www.instagram.com/nanzzzita_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
