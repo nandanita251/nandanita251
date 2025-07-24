@@ -11,5 +11,3 @@ HTML | CSS | JavaScript | ReactJS | Node.js | MongoDB | MySQL | PHP | Java | Pyt
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandanita-upadhyay-216ba6301)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white)](https://www.instagram.com/nanzzzita_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nanzzzita_&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanzzzita_&layout=compact&theme=radical)
