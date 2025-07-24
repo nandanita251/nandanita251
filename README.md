@@ -1,16 +1,12 @@
-## Hi there 👋
+# 👋 Hi, I'm Nandanita 
+🎓 3rd Year B.Tech | 💻 Web Developer | 📍Surat, India  
+🌐 I love building beautiful and fast websites  
+🔭 Currently working on: MERN Stack Projects  
+📫 Reach me at: nandanita25@gmail.com
 
-<!--
-**nandanita251/nandanita251** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Tech Stack
+HTML | CSS | JavaScript | ReactJS | Node.js | MongoDB | MySQL | PHP | Java | Python |
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Let's Connect
+[![LinkedIn](www.linkedin.com/in/nandanita-upadhyay-216ba6301)
+[![Instagram](https://www.instagram.com/nanzzzita_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
