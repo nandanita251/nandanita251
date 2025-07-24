@@ -8,5 +8,5 @@
 HTML | CSS | JavaScript | ReactJS | Node.js | MongoDB | MySQL | PHP | Java | Python |
 
 ## 🔗 Let's Connect
-[![LinkedIn](www.linkedin.com/in/nandanita-upadhyay-216ba6301)
-[![Instagram](https://www.instagram.com/nanzzzita_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+[LinkedIn](www.linkedin.com/in/nandanita-upadhyay-216ba6301)
+[Instagram](https://www.instagram.com/nanzzzita_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
